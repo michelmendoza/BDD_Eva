@@ -1,6 +1,6 @@
 Feature: LoginParceiro
 
-  @BDDCEN-3 @OPEN
+  @BDDCEN-3 @OPEN @MANUAL
   Scenario: Logar com Sucesso
     Dado que eu quero logar com sucesso
     
